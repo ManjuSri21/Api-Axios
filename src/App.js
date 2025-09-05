@@ -8,9 +8,7 @@ function App() {
   return (
     <div className='container-fluid'>
     <Users/>  <br/><hr/>
-    <Photos/> <br/><hr />
     <CRUD/>   <br/><hr/>
-    <Database/>
     </div>
   )
 }
